@@ -14,6 +14,10 @@ asd.drive()
 asd.prinitsome()
 
 
+def Multiplication(a, b):
+    return a * b
+
+
 
 
 
